@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Firebase-React-Blog-Site/create/static/css/main.44cf9dd9.chunk.css",
-    "main.js": "/Firebase-React-Blog-Site/create/static/js/main.407c9ef5.chunk.js",
-    "main.js.map": "/Firebase-React-Blog-Site/create/static/js/main.407c9ef5.chunk.js.map",
-    "runtime-main.js": "/Firebase-React-Blog-Site/create/static/js/runtime-main.f4416f91.js",
-    "runtime-main.js.map": "/Firebase-React-Blog-Site/create/static/js/runtime-main.f4416f91.js.map",
-    "static/js/2.510c3228.chunk.js": "/Firebase-React-Blog-Site/create/static/js/2.510c3228.chunk.js",
-    "static/js/2.510c3228.chunk.js.map": "/Firebase-React-Blog-Site/create/static/js/2.510c3228.chunk.js.map",
-    "static/js/3.441b32d0.chunk.js": "/Firebase-React-Blog-Site/create/static/js/3.441b32d0.chunk.js",
-    "static/js/3.441b32d0.chunk.js.map": "/Firebase-React-Blog-Site/create/static/js/3.441b32d0.chunk.js.map",
-    "index.html": "/Firebase-React-Blog-Site/create/index.html",
-    "static/css/main.44cf9dd9.chunk.css.map": "/Firebase-React-Blog-Site/create/static/css/main.44cf9dd9.chunk.css.map",
-    "static/js/2.510c3228.chunk.js.LICENSE.txt": "/Firebase-React-Blog-Site/create/static/js/2.510c3228.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Firebase-React-Blog-Site/create/static/media/background.af3d9062.jpg"
+    "main.css": "/Firebase-React-Blog-Site/static/css/main.d2a88da1.chunk.css",
+    "main.js": "/Firebase-React-Blog-Site/static/js/main.407c9ef5.chunk.js",
+    "main.js.map": "/Firebase-React-Blog-Site/static/js/main.407c9ef5.chunk.js.map",
+    "runtime-main.js": "/Firebase-React-Blog-Site/static/js/runtime-main.e5a575ab.js",
+    "runtime-main.js.map": "/Firebase-React-Blog-Site/static/js/runtime-main.e5a575ab.js.map",
+    "static/js/2.58742a47.chunk.js": "/Firebase-React-Blog-Site/static/js/2.58742a47.chunk.js",
+    "static/js/2.58742a47.chunk.js.map": "/Firebase-React-Blog-Site/static/js/2.58742a47.chunk.js.map",
+    "static/js/3.441b32d0.chunk.js": "/Firebase-React-Blog-Site/static/js/3.441b32d0.chunk.js",
+    "static/js/3.441b32d0.chunk.js.map": "/Firebase-React-Blog-Site/static/js/3.441b32d0.chunk.js.map",
+    "index.html": "/Firebase-React-Blog-Site/index.html",
+    "static/css/main.d2a88da1.chunk.css.map": "/Firebase-React-Blog-Site/static/css/main.d2a88da1.chunk.css.map",
+    "static/js/2.58742a47.chunk.js.LICENSE.txt": "/Firebase-React-Blog-Site/static/js/2.58742a47.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Firebase-React-Blog-Site/static/media/background.af3d9062.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4416f91.js",
-    "static/js/2.510c3228.chunk.js",
-    "static/css/main.44cf9dd9.chunk.css",
+    "static/js/runtime-main.e5a575ab.js",
+    "static/js/2.58742a47.chunk.js",
+    "static/css/main.d2a88da1.chunk.css",
     "static/js/main.407c9ef5.chunk.js"
   ]
 }
