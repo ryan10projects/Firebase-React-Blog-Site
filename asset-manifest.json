@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Firebase-React-Blog-Site/static/css/main.d2a88da1.chunk.css",
-    "main.js": "/Firebase-React-Blog-Site/static/js/main.d713d277.chunk.js",
-    "main.js.map": "/Firebase-React-Blog-Site/static/js/main.d713d277.chunk.js.map",
+    "main.js": "/Firebase-React-Blog-Site/static/js/main.407c9ef5.chunk.js",
+    "main.js.map": "/Firebase-React-Blog-Site/static/js/main.407c9ef5.chunk.js.map",
     "runtime-main.js": "/Firebase-React-Blog-Site/static/js/runtime-main.e5a575ab.js",
     "runtime-main.js.map": "/Firebase-React-Blog-Site/static/js/runtime-main.e5a575ab.js.map",
     "static/js/2.58742a47.chunk.js": "/Firebase-React-Blog-Site/static/js/2.58742a47.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e5a575ab.js",
     "static/js/2.58742a47.chunk.js",
     "static/css/main.d2a88da1.chunk.css",
-    "static/js/main.d713d277.chunk.js"
+    "static/js/main.407c9ef5.chunk.js"
   ]
 }
